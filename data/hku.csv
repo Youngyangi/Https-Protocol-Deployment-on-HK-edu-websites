@@ -1,0 +1,497 @@
+网址,与用户建立连接所使用的加密算法,有效期,证书签名算法,颁发者完整名称,被颁发人完整名称,证书持有者公钥算法,证书持有者可选名称
+https://www.hku.hk/,"TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA,256位秘钥，TLS 1.2",2018年1月10日—2020年10月1日,SHA-256 RSA 加密,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US
+","CN = *.hku.hk
+OU = Information Technology Services
+O = The University of Hong Kong
+L = Hong Kong
+C = HK", RSA 加密,"非关键
+DNS 名称: *.hku.hk
+DNS 名称: hku.hk"
+https://soh.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?1?月?10?日 8:00:00 ?2020?年?10?月?1?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US
+","CN = *.hku.hk
+OU = Information Technology Services
+O = The University of Hong Kong
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.hku.hk
+DNS Name=hku.hk
+"
+http://www.ziri.hku.hk/,,,,,,,
+https://hkuspace.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?5?月?30?日 14:48:15 ?2021?年?7?月?21?日 14:53:38,sha256RSA,"CN = Go Daddy Secure Certificate Authority - G2
+OU = http://certs.godaddy.com/repository/
+O = GoDaddy.com, Inc.
+L = Scottsdale
+S = Arizona
+C = US","CN = *.hkuspace.hku.hk
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.hkuspace.hku.hk
+DNS Name=hkuspace.hku.hk
+"
+https://www.med.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?8?月?25?日 7:35:52 ?2019?年?11?月?23?日 7:35:52,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = www.med.hku.hk, RSA 加密,DNS Name=www.med.hku.hk
+https://www.alumni.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?1?月?10?日 8:00:00 ?2019?年?12?月?31?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US
+",CN = www.alumni.hku.hk, RSA 加密,DNS Name=www.alumni.hku.hk
+https://idendron.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?7?月?24?日 19:40:58 ?2019?年?10?月?22?日 19:40:58,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = idendron.hku.hk, RSA 加密,DNS Name=idendron.hku.hk
+https://tl.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?9?月?24?日 9:20:35 ?2019?年?12?月?23?日 9:20:35,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = tl.hku.hk, RSA 加密,DNS Name=tl.hku.hk
+https://www.wellbeing.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2019?年?8?月?19?日 12:47:37 ?2020?年?10?月?13?日 15:18:00,sha256RSA,"CN = Go Daddy Secure Certificate Authority - G2
+OU = http://certs.godaddy.com/repository/
+O = GoDaddy.com, Inc.
+L = Scottsdale
+S = Arizona
+C = US","CN = www.doremifa.edu.hk
+OU = Domain Control Validated", RSA 加密,"DNS Name=www.doremifa.edu.hk
+DNS Name=doremifa.edu.hk
+DNS Name=www.depression.edu.hk
+DNS Name=www.outofthedark.edu.hk
+DNS Name=www.wellbeing.hku.hk
+DNS Name=www.gooley.edu.hk
+"
+https://www.ke.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher)
+",?2019?年?7?月?24?日 14:17:22 ?2019?年?10?月?22?日 14:17:22,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = www.ke.hku.hk, RSA 加密,DNS Name=www.ke.hku.hk
+https://nursing.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?1?月?10?日 8:00:00 ?2020?年?10?月?1?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US
+
+","CN = *.hku.hk
+OU = Information Technology Services
+O = The University of Hong Kong
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.hku.hk
+DNS Name=hku.hk
+"
+https://jobs.hku.hk/en/listing/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?4?月?3?日 8:00:00 ?2020?年?5?月?3?日 20:00:00,sha256RSA,"CN = Amazon
+OU = Server CA 1B
+O = Amazon
+C = US",CN = jobs.hku.hk, RSA 加密,"DNS Name=jobs.hku.hk
+DNS Name=8r3urmmdqh.5871118686c61da9957fe0a59277bded.careersite.pageuppeople.com
+"
+https://www.giving.hku.hk/en/index.html,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2018?年?1?月?10?日 8:00:00 ?2020?年?1?月?31?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = www.giving.hku.hk, RSA 加密,DNS Name=www.giving.hku.hk
+https://www.arch.hku.hk/,"The connection to this site uses TLS 1.0 (an obsolete protocol), RSA (an obsolete key exchange), and AES_128_CBC with HMAC-SHA1 (an obsolete cipher).",?2019?年?8?月?21?日 8:00:00 ?2020?年?9?月?21?日 20:00:00,sha256RSA,"CN = Amazon
+OU = Server CA 1B
+O = Amazon
+C = US",CN = www.arch.hku.hk, RSA 加密,DNS Name=www.arch.hku.hk
+https://sph.hku.hk/en/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?1?月?10?日 8:00:00 ?2020?年?10?月?1?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.hku.hk
+OU = Information Technology Services
+O = The University of Hong Kong
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.hku.hk
+DNS Name=hku.hk
+"
+https://www.ctc.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?9?月?2?日 7:13:57 ?2019?年?12?月?1?日 7:13:57,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = www.ctc.hku.hk, RSA 加密,"DNS Name=www.ctc.hku.hk
+DNS Name=www.hkuctc.com
+"
+https://basc.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?8?月?23?日 7:08:02 ?2019?年?11?月?21?日 7:08:02,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = www.basc.hku.hk, RSA 加密,"DNS Name=basc.hku.hk
+DNS Name=www.basc.hku.hk
+"
+https://www.geog.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?9?月?23?日 8:00:00 ?2019?年?12?月?23?日 7:59:59,sha256RSA,"CN = Sectigo RSA Domain Validation Secure Server CA
+O = Sectigo Limited
+L = Salford
+S = Greater Manchester
+C = GB",CN = ediblespaces.hku.hk, RSA 加密,"DNS Name=ediblespaces.hku.hk
+DNS Name=eim.cse.hku.hk
+DNS Name=fmpcevent3.hku.hk
+DNS Name=french.hku.hk
+DNS Name=geog.hku.hk
+DNS Name=gingerbread.uvision.hku.hk
+DNS Name=gradhse.hku.hk
+DNS Name=hincare.hku.hk
+DNS Name=www.ediblespaces.hku.hk
+DNS Name=www.eim.cse.hku.hk
+DNS Name=www.fmpcevent3.hku.hk
+DNS Name=www.french.hku.hk
+DNS Name=www.geog.hku.hk
+DNS Name=www.gingerbread.uvision.hku.hk
+DNS Name=www.gradhse.hku.hk
+DNS Name=www.hincare.hku.hk
+"
+http://www.ldsrc.hku.hk/,,,,,,,
+https://www.scifac.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",2018?年?5?月?21?日 8:00:00 ?2020?年?5?月?20?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = www.scifac.hku.hk, RSA 加密,DNS Name=www.scifac.hku.hk
+https://uvision.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?1?月?10?日 8:00:00 ?2020?年?10?月?1?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.hku.hk
+OU = Information Technology Services
+O = The University of Hong Kong
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.hku.hk
+DNS Name=hku.hk
+"
+http://www.music.hku.hk/,,,,,,,
+https://www.infoday.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?10?月?5?日 10:23:43 ?2020?年?1?月?3?日 10:23:43,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = infoday.hku.hk, RSA 加密,"DNS Name=infoday.hku.hk
+DNS Name=www.infoday.hku.hk
+"
+http://www.culture.hku.hk/,,,,,,,
+https://www.imse.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?8?月?22?日 8:00:00 ?2021?年?11?月?20?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = www.imse.hku.hk, RSA 加密,DNS Name=www.imse.hku.hk
+https://aal.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?1?月?10?日 8:00:00 ?2020?年?10?月?1?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.hku.hk
+OU = Information Technology Services
+O = The University of Hong Kong
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.hku.hk
+DNS Name=hku.hk
+"
+https://www.rclhall.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?10?月?10?日 6:41:52 ?2020?年?1?月?8?日 6:41:52,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = rclhall.hku.hk, RSA 加密,"DNS Name=rclhall.hku.hk
+DNS Name=www.rclhall.hku.hk
+"
+https://www.law.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2018?年?6?月?12?日 8:00:00 ?2020?年?6?月?11?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = *.law.hku.hk, RSA 加密,DNS Name=*.law.hku.hk
+http://library.hku.hk/,,,,,,,
+https://www.scifac.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?5?月?21?日 8:00:00 ?2020?年?5?月?20?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = www.scifac.hku.hk, RSA 加密,DNS Name=www.scifac.hku.hk
+https://uvision.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?1?月?10?日 8:00:00 ?2020?年?10?月?1?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.hku.hk
+OU = Information Technology Services
+O = The University of Hong Kong
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.hku.hk
+DNS Name=hku.hk
+"
+http://www.fife.hku.hk/,,,,,,,
+http://www.music.hku.hk/,,,,,,,
+https://hkupress.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?7?月?21?日 7:09:16 ?2019?年?10?月?19?日 7:09:16,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = www.hkupress.hku.hk, RSA 加密,"DNS Name=hkupress.hku.hk
+DNS Name=www.hkupress.hku.hk
+"
+http://me.hku.hk/,,,,,,,
+https://www.infoday.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and AES_128_GCM (a strong cipher).", ?2019?年?10?月?5?日 10:23:43 ?2020?年?1?月?3?日 10:23:43,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = infoday.hku.hk, RSA 加密,"DNS Name=infoday.hku.hk
+DNS Name=www.infoday.hku.hk
+"
+https://www.imse.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?8?月?22?日 8:00:00 ?2021?年?11?月?20?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = www.imse.hku.hk, RSA 加密,DNS Name=www.imse.hku.hk
+https://aal.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?1?月?10?日 8:00:00 ?2020?年?10?月?1?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.hku.hk
+OU = Information Technology Services
+O = The University of Hong Kong
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.hku.hk
+DNS Name=hku.hk
+"
+https://www.psychology.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?6?月?19?日 8:00:00 ?2020?年?6?月?18?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = www.psychology.hku.hk, RSA 加密,DNS Name=www.psychology.hku.hk
+https://www.rclhall.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?10?月?10?日 6:41:52 ?2020?年?1?月?8?日 6:41:52,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = rclhall.hku.hk, RSA 加密,"DNS Name=rclhall.hku.hk
+DNS Name=www.rclhall.hku.hk
+"
+https://www.law.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2018?年?6?月?12?日 8:00:00 ?2020?年?6?月?11?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = *.law.hku.hk, RSA 加密,"DNS Name=*.law.hku.hk
+"
+http://library.hku.hk/,,,,,,,
+https://www.engineering.hku.hk/tecHKU/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?8?月?27?日 7:21:34 ?2019?年?11?月?25?日 7:21:34,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = www.engineering.hku.hk, RSA 加密,DNS Name=www.engineering.hku.hk
+https://www.alumni.hku.hk/newsletter,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?1?月?10?日 8:00:00 ?2019?年?12?月?31?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = www.alumni.hku.hk, RSA 加密,DNS Name=www.alumni.hku.hk
+https://lungfushan.hku.hk/en,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?8?月?29?日 7:04:01 ?2019?年?11?月?27?日 7:04:01,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = lungfushan.hku.hk, RSA 加密,DNS Name=lungfushan.hku.hk
+https://hkuspace.hku.hk/cht,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?5?月?30?日 14:48:15 ?2021?年?7?月?21?日 14:53:38,sha256RSA,"CN = Go Daddy Secure Certificate Authority - G2
+OU = http://certs.godaddy.com/repository/
+O = GoDaddy.com, Inc.
+L = Scottsdale
+S = Arizona
+C = US","CN = *.hkuspace.hku.hk
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.hkuspace.hku.hk
+DNS Name=hkuspace.hku.hk
+"
+https://wecare.csrp.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2019?年?8?月?19?日 11:02:38 ?2020?年?9?月?13?日 10:00:49,sha256RSA,"CN = Go Daddy Secure Certificate Authority - G2
+OU = http://certs.godaddy.com/repository/
+O = GoDaddy.com, Inc.
+L = Scottsdale
+S = Arizona
+C = US","CN = *.csrp.hku.hk
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.csrp.hku.hk
+DNS Name=csrp.hku.hk
+"
+https://www.arch.hku.hk/people/,"The connection to this site uses TLS 1.0 (an obsolete protocol), RSA (an obsolete key exchange), and AES_128_CBC with HMAC-SHA1 (an obsolete cipher).",?2019?年?8?月?21?日 8:00:00 ?2020?年?9?月?21?日 20:00:00,sha256RSA,"CN = Amazon
+OU = Server CA 1B
+O = Amazon
+C = US",CN = www.arch.hku.hk, RSA 加密,DNS Name=www.arch.hku.hk
+https://ic.hkuspace.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), RSA (an obsolete key exchange), and AES_128_CBC with HMAC-SHA1 (an obsolete cipher).",?2019?年?5?月?30?日 14:48:15 ?2021?年?7?月?21?日 14:53:38,sha256RSA,"CN = Go Daddy Secure Certificate Authority - G2
+OU = http://certs.godaddy.com/repository/
+O = GoDaddy.com, Inc.
+L = Scottsdale
+S = Arizona
+C = US","CN = *.hkuspace.hku.hk
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.hkuspace.hku.hk
+DNS Name=hkuspace.hku.hk
+"
+https://lib.hku.hk/survey2017/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2017?年?12?月?7?日 8:00:00 ?2020?年?2?月?5?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = lib.hku.hk, RSA 加密,DNS Name=lib.hku.hk
+https://hkuspace.hku.hk/londonu,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?5?月?30?日 14:48:15 ?2021?年?7?月?21?日 14:53:38,sha256RSA,"CN = Go Daddy Secure Certificate Authority - G2
+OU = http://certs.godaddy.com/repository/
+O = GoDaddy.com, Inc.
+L = Scottsdale
+S = Arizona
+C = US
+","CN = *.hkuspace.hku.hk
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.hkuspace.hku.hk
+DNS Name=hkuspace.hku.hk
+"
+https://csrp.hku.hk/media/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2019?年?8?月?19?日 11:02:38 ?2020?年?9?月?13?日 10:00:49,sha256RSA,"CN = Go Daddy Secure Certificate Authority - G2
+OU = http://certs.godaddy.com/repository/
+O = GoDaddy.com, Inc.
+L = Scottsdale
+S = Arizona
+C = US","CN = *.csrp.hku.hk
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.csrp.hku.hk
+DNS Name=csrp.hku.hk
+"
+http://www.als.hku.hk/hkudos/,,,,,,,
+https://www.hku.hk/c_index.html,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?1?月?10?日 8:00:00 ?2020?年?10?月?1?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.hku.hk
+OU = Information Technology Services
+O = The University of Hong Kong
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.hku.hk
+DNS Name=hku.hk
+"
+https://mph.sph.hku.hk/en/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?6?月?21?日 8:00:00 ?2020?年?6?月?20?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = *.sph.hku.hk, RSA 加密,"DNS Name=*.sph.hku.hk
+"
+https://lib.hku.hk/leadership/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2017?年?12?月?7?日 8:00:00 ?2020?年?2?月?5?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = lib.hku.hk, RSA 加密,"DNS Name=lib.hku.hk
+"
+https://www.cpao.hku.hk/qstats/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?9?月?22?日 7:47:11? 2019?年?12?月?21?日 7:47:11,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = www.cpao.hku.hk, RSA 加密,DNS Name=www.cpao.hku.hk
+https://hkuspace.hku.hk/interest,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?5?月?30?日 14:48:15 ?2021?年?7?月?21?日 14:53:38,sha256RSA,"CN = Go Daddy Secure Certificate Authority - G2
+OU = http://certs.godaddy.com/repository/
+O = GoDaddy.com, Inc.
+L = Scottsdale
+S = Arizona
+C = US","CN = *.hkuspace.hku.hk
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.hkuspace.hku.hk
+DNS Name=hkuspace.hku.hk
+"
+https://hkuspace.hku.hk/china,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?5?月?30?日 14:48:15 ?2021?年?7?月?21?日 14:53:38,sha256RSA,"CN = Go Daddy Secure Certificate Authority - G2
+OU = http://certs.godaddy.com/repository/
+O = GoDaddy.com, Inc.
+L = Scottsdale
+S = Arizona
+C = US","CN = *.hkuspace.hku.hk
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.hkuspace.hku.hk
+DNS Name=hkuspace.hku.hk
+"
+https://sph.hku.hk/ghd/en/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",??2018?年?1?月?10?日 8:00:00 2020?年?10?月?1?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.hku.hk
+OU = Information Technology Services
+O = The University of Hong Kong
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.hku.hk
+DNS Name=hku.hk
+"
+https://www.msc-cs.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-384 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2019?年?1?月?2?日 8:00:00 ?2021?年?1?月?1?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = *.msc-cs.hku.hk, RSA 加密,DNS Name=*.msc-cs.hku.hk
+https://sea.hkuspace.hku.hk/chs/,"The connection to this site uses TLS 1.2 (a strong protocol), RSA (an obsolete key exchange), and AES_128_CBC with HMAC-SHA1 (an obsolete cipher).",?2019?年?5?月?30?日 14:48:15 ?2021?年?7?月?21?日 14:53:38,sha256RSA,"CN = Go Daddy Secure Certificate Authority - G2
+OU = http://certs.godaddy.com/repository/
+O = GoDaddy.com, Inc.
+L = Scottsdale
+S = Arizona
+C = US","CN = *.hkuspace.hku.hk
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.hkuspace.hku.hk
+DNS Name=hkuspace.hku.hk
+"
+https://www.ecom-icom.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-384 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?12?月?28?日 8:00:00 ?2020?年?12?月?27?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = *.ecom-icom.hku.hk, RSA 加密,DNS Name=*.ecom-icom.hku.hk
+https://basc.hku.hk/design/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?8?月?23?日 7:08:02 ?2019?年?11?月?21?日 7:08:02,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = www.basc.hku.hk, RSA 加密,"DNS Name=basc.hku.hk
+DNS Name=www.basc.hku.hk
+"
+https://lib.hku.hk/fac_grad/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2017?年?12?月?7?日 8:00:00 ?2020?年?2?月?5?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = lib.hku.hk, RSA 加密,DNS Name=lib.hku.hk
+http://www.feo.hku.hk/finance/,,,,,,,
+https://lib.hku.hk/database/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2017?年?12?月?7?日 8:00:00 ?2020?年?2?月?5?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = lib.hku.hk, RSA 加密,DNS Name=lib.hku.hk
+https://lib.hku.hk/fpslib/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2017?年?12?月?7?日 8:00:00 ?2020?年?2?月?5?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = lib.hku.hk, RSA 加密,DNS Name=lib.hku.hk
+https://lib.hku.hk/denlib/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2017?年?12?月?7?日 8:00:00 ?2020?年?2?月?5?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = lib.hku.hk, RSA 加密,"DNS Name=lib.hku.hk
+"
+https://lib.hku.hk/level3/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2017?年?12?月?7?日 8:00:00 ?2020?年?2?月?5?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = lib.hku.hk, RSA 加密,DNS Name=lib.hku.hk
+https://lib.hku.hk/edulib/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2017?年?12?月?7?日 8:00:00 ?2020?年?2?月?5?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = lib.hku.hk, RSA 加密,"DNS Name=lib.hku.hk
+"
+https://lib.hku.hk/muslib/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2017?年?12?月?7?日 8:00:00 ?2020?年?2?月?5?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = lib.hku.hk, RSA 加密,DNS Name=lib.hku.hk
+https://lib.hku.hk/mediaservices/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2017?年?12?月?7?日 8:00:00 ?2020?年?2?月?5?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = lib.hku.hk, RSA 加密,DNS Name=lib.hku.hk
+https://lib.hku.hk/copyright/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2017?年?12?月?7?日 8:00:00 ?2020?年?2?月?5?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = lib.hku.hk, RSA 加密,DNS Name=lib.hku.hk
+https://www.dreamcatchers.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?10?月?9?日 7:15:54 ?2020?年?1?月?7?日 7:15:54,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = www.dreamcatchers.hku.hk, RSA 加密,"DNS Name=www.dreamcatchers.hku.hk
+"
+https://www.hiebs.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?10?月?9?日 14:52:19 ?2020?年?1?月?7?日 14:52:19,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = www.hiebs.hku.hk, RSA 加密,"DNS Name=wangyujian.hku.hk
+DNS Name=www.hiebs.hku.hk
+"
+https://www.hku.hk/staff/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?1?月?10?日 8:00:00 ?2020?年?10?月?1?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.hku.hk
+OU = Information Technology Services
+O = The University of Hong Kong
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.hku.hk
+DNS Name=hku.hk
+"
+https://tlem.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?9?月?24?日 9:20:46 ?2019?年?12?月?23?日 9:20:46,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = tlem.hku.hk, RSA 加密,DNS Name=tlem.hku.hk
+https://www.its.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?5?月?23?日 8:00:00 ?2020?年?8?月?21?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = www.its.hku.hk, RSA 加密,DNS Name=www.its.hku.hk
+https://www.hku.hk/hkumedia/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?1?月?10?日 8:00:00 ?2020?年?10?月?1?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.hku.hk
+OU = Information Technology Services
+O = The University of Hong Kong
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.hku.hk
+DNS Name=hku.hk
+"
+https://www.hku.hk/faculties/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?1?月?10?日 8:00:00 ?2020?年?10?月?1?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.hku.hk
+OU = Information Technology Services
+O = The University of Hong Kong
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.hku.hk
+DNS Name=hku.hk
+"
+https://www.hku.hk/contact/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?1?月?10?日 8:00:00 ?2020?年?10?月?1?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.hku.hk
+OU = Information Technology Services
+O = The University of Hong Kong
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.hku.hk
+DNS Name=hku.hk
+"
+https://www.history.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?9?月?5?日 7:41:29 ?2019?年?12?月?4?日 7:41:29,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = www.history.hku.hk, RSA 加密,DNS Name=www.history.hku.hk
+https://www.physics.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?9?月?1?日 0:00:48 ?2019?年?11?月?30?日 0:00:48,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = www.physics.hku.hk, RSA 加密,"DNS Name=bohr.physics.hku.hk
+DNS Name=www.physics.hku.hk
+"
+https://www.complit.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?10?月?1?日 7:20:42 ?2019?年?12?月?30?日 7:20:42,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = www.complit.hku.hk, RSA 加密,DNS Name=www.complit.hku.hk
+http://www.cmp.hku.hk/,,,,,,,
+http://www.newcollege.hku.hk/,,,,,,,
+http://hub.hku.hk/,,,,,,,
+https://www.biosch.hku.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?9?月?2?日 8:01:59 ?2019?年?12?月?1?日 8:01:59,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = www.biosch.hku.hk, RSA 加密,DNS Name=www.biosch.hku.hk
+https://www.acrc.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?8?月?29?日 8:00:00 ?2020?年?8?月?28?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = www.acrc.hku.hk, RSA 加密,DNS Name=www.acrc.hku.hk
+http://ageing.hku.hk/,,,,,,,
+http://www.civil.hku.hk/,,,,,,,
+http://www.uhs.hku.hk/index.php,,,,,,,
+http://www.ssrc.hku.hk/,,,,,,,
+http://www.sklpb.hku.hk/,,,,,,,
+https://www.lsr.hku.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2019?年?2?月?20?日 8:00:00 ?2021?年?2?月?19?日 20:00:00,sha256RSA,"CN = GeoTrust RSA CA 2018
+OU = www.digicert.com
+O = DigiCert Inc
+C = US",CN = www.lsr.hku.hk, RSA 加密,"DNS Name=www.lsr.hku.hk
+"

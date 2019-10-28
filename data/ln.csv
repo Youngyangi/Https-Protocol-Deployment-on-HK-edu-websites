@@ -1,0 +1,750 @@
+网址,与用户建立连接所使用的加密算法,有效期,证书签名算法,颁发者完整名称,被颁发人完整名称,证书持有者公钥算法,证书持有者可选名称
+https://www.ln.edu.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/socsc/contact-us.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/ors/kt-heritage-arts-culture.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://fs.ln.edu.hk,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?5?月?28?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=fs.ln.edu.hk
+DNS Name=ln.edu.hk
+"
+https://www.ln.edu.hk/about-lu/structure-and-organisation/faculties-and-departments,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/reg/registry-services/retitle.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/socsp/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/scienceunit/contact.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/about-lu/structure-and-organisation/faculties-and-departments,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/visual/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/mkt/SEP.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/osl/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.library.ln.edu.hk/about/web-accessibility-statement,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?8?月?6?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/mgt/FacultyStaff/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:03,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/itsc/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/ogeis/download/inboundhandbook1920.pdf,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/ssc,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/reg/corec.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/history/staff/index.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/reg/info/study/minor4yr.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/socsp/staff/paulindex.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/reg/registry-services/retitle.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/psy/faculty/alanleeindex1.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/admissions/ug/overseas/overseas-admission,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/spsc/people/Profile_Padmore.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/spsc/people/Profile_Paulina.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/oiaaa,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/ccgeo/new.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/chronicle,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/ccgeo/exempt.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/milestones,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/po,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/cultural/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://commons.ln.edu.hk/eng_etd/2/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/videos/749/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/5434/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/osl_book/28/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/osl_book/28/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/5111/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/videos/203/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://www.ln.edu.hk/letter-to-lingnanians/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://commons.ln.edu.hk/apiasmp/19/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/soc_etd/37/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/247/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/vs_etd/11/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/2318/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/4724/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/4724/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://www.ln.edu.hk/progs/bbaprog/staff/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/reg/registry-services/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://commons.ln.edu.hk/sw_master/668/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/jchkhlp_trips/11/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/jchkhlp_trips/11/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/6111/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/483/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://www.ln.edu.hk/fin_ins/gaojin.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/visitors,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/events,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/reachout/academic.html,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/fin_ins/taosun.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/ssc,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/cleac/aboutus.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/subscription,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/fin_ins/edwardzhao.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://commons.ln.edu.hk/sw_master/4713/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/otd/41/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sl_book/5/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/145/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/4713/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/6004/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/oh_cca/5/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/5166/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/3430/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://www.ln.edu.hk/reg/ug_progs_4.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/scienceunit/courses.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/reg/collaboration.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/reg/course_descriptions4yr.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/reg/course_descriptions4yr.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/arts/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/accessibility,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/progs/bbaprog/notices/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/reg/ug_progs4yr.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/reg/ug_progs4yr.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://commons.ln.edu.hk/sw_master/4307/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/reg/englang.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://www.ln.edu.hk/cleac/staff.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?22?日 8:00:00 ?2021?年?8?月?19?日 20:00:00,sha256RSA,"CN = DigiCert SHA2 High Assurance Server CA
+OU = www.digicert.com
+O = DigiCert Inc
+C = US","CN = *.ln.edu.hk
+OU = ITSC
+O = Lingnan University
+L = Hong Kong
+C = HK", RSA 加密,"DNS Name=*.ln.edu.hk
+DNS Name=ln.edu.hk
+DNS Name=www.ln.edu.hk
+"
+https://commons.ln.edu.hk/sw_master/7394/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/4307/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/791/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/581/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/chi_diss/123/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/14/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sw_master/3632/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/chi_etd/4/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk
+https://commons.ln.edu.hk/sysu_exhibition_master/35/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with X25519 (a strong key exchange), and CHACHA20_POLY1305 (a strong cipher).",?2019?年?9?月?3?日 20:48:07 ?2019?年?12?月?2?日 20:48:07,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = commons.ln.edu.hk, RSA 加密,DNS Name=commons.ln.edu.hk

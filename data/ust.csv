@@ -1,0 +1,520 @@
+网址,与用户建立连接所使用的加密算法,有效期,证书签名算法,颁发者完整名称,被颁发人完整名称,证书持有者公钥算法,证书持有者可选名称
+https://www.ust.hk/senior-adm,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?5?月?17?日 8:00:00 ?2020?年?5?月?17?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = www.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=www.ust.hk
+DNS Name=ust.hk
+"
+http://www.rmbi.ust.hk/web/eng/index.php,,,,,,,
+http://www.rmbi.ust.hk/web/eng/index.php,,,,,,,
+https://huma.ust.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-384 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?12?月?18?日 8:00:00 ?2020?年?12?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = huma.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=huma.ust.hk
+DNS Name=www.huma.ust.hk
+"
+https://www.bri.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?21?日 8:00:00 ?2020?年?9?月?21?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = www.bri.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=www.bri.ust.hk
+DNS Name=bri.ust.hk
+"
+https://25a.ust.hk/eng/index.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?7?月?30?日 8:00:00 ?2020?年?7?月?30?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = 25a.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=25a.ust.hk
+DNS Name=www.25a.ust.hk
+"
+https://www.ust.hk/media/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?5?月?17?日 8:00:00 ?2020?年?5?月?17?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = www.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=www.ust.hk
+DNS Name=ust.hk
+"
+http://praise.ust.hk/,,,,,,,
+https://www.ust.hk/research/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?5?月?17?日 8:00:00 ?2020?年?5?月?17?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = www.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=www.ust.hk
+DNS Name=ust.hk
+"
+http://hkustemba.ust.hk/,,,,,,,
+http://hkustemba.ust.hk/,,,,,,,
+https://www.ust.hk/research/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?5?月?17?日 8:00:00 ?2020?年?5?月?17?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = www.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=www.ust.hk
+DNS Name=ust.hk
+"
+https://www.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?5?月?17?日 8:00:00 ?2020?年?5?月?17?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = www.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=www.ust.hk
+DNS Name=ust.hk
+"
+https://pvs0081.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?9?月?29?日 3:04:30,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = www.liaoqinghai.com, RSA 加密,"DNS Name=doc.ram-lab.com
+DNS Name=git.ram-lab.com
+DNS Name=hyye.ram-lab.com
+DNS Name=i.ram-lab.com
+DNS Name=icvs2017.ram-lab.com
+DNS Name=ldap.ram-lab.com
+DNS Name=lisee.io
+DNS Name=lujia.ram-lab.com
+DNS Name=pm.ram-lab.com
+DNS Name=pvs0081.ust.hk
+DNS Name=qinghai.ram-lab.com
+DNS Name=ram-lab.com
+DNS Name=ram-lab.net
+DNS Name=tailei.ram-lab.com
+DNS Name=talentomorrow.com
+DNS Name=unity-drive.com
+DNS Name=www.liaoqinghai.com
+DNS Name=www.lisee.io
+DNS Name=www.ram-lab.com
+DNS Name=www.ram-lab.net
+DNS Name=www.talentomorrow.com
+DNS Name=www.unity-drive.com
+DNS Name=www.yq-navi.com
+DNS Name=yq-navi.com
+DNS Name=yunpeng.ram-lab.com
+DNS Name=yuying.ram-lab.com
+"
+http://emba.ust.hk/,,,,,,,
+http://ei.ust.hk/cgi-bin/ei/eng/index.php,,,,,,,
+http://usthing.ust.hk/,,,,,,,
+https://alum.ust.hk/,"The connection to this site uses TLS 1.0 (an obsolete protocol), RSA (an obsolete key exchange), and AES_128_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?8?月?23?日 8:00:00,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = alum.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=alum.ust.hk
+DNS Name=www.alum.ust.hk
+"
+https://sosc.ust.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-384 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?12?月?18?日 8:00:00 ?2020?年?12?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = sosc.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=sosc.ust.hk
+DNS Name=www.sosc.ust.hk
+"
+http://www.lapp.ust.hk/eng/index.php,,,,,,,
+https://www.ec.ust.hk/base/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).
+",?2018?年?9?月?21?日 8:00:00 ?2020?年?9?月?21?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = ec.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=ec.ust.hk
+DNS Name=www.ec.ust.hk
+"
+https://pg.ust.hk/landing,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+http://www.bm.ust.hk/econ/,,,,,,,
+https://stem.ust.hk/en/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?3?月?26?日 8:00:00 ?2020?年?3?月?26?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = stem.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=stem.ust.hk
+DNS Name=www.stem.ust.hk
+"
+http://caser.ust.hk/en/,,,,,,,
+http://www.bm.ust.hk/mgmt/,,,,,,,
+https://www.mba.ust.hk/mbap,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?7?月?10?日 8:00:00 ?2021?年?9?月?8?日 7:59:59,sha256RSA,"CN = Sectigo RSA Domain Validation Secure Server CA
+O = Sectigo Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = mba.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=mba.ust.hk
+DNS Name=www.mba.ust.hk
+"
+http://www.mba.ust.hk/ftmba,,,,,,,
+https://www.ece.ust.hk/eezxli,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?4?月?1?日 8:00:00 ?2021?年?4?月?1?日 7:59:59,sha256RSA,"CN = Sectigo RSA Domain Validation Secure Server CA
+O = Sectigo Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = www.ece.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=www.ece.ust.hk
+DNS Name=ece.ust.hk
+"
+http://www.bm.ust.hk/mark/,,,,,,,
+https://iems.ust.hk/people,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+http://www.bm.ust.hk/execed/,,,,,,,
+http://www.bm.ust.hk/acct/,,,,,,,
+http://ultracold.ust.hk/home,,,,,,,
+http://www.edp.ust.hk/kids/cgi-bin/web/index.php,,,,,,,
+https://infoday.ust.hk/transportation/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2017?年?8?月?29?日 8:00:00 ?2020?年?8?月?29?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = infoday.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=infoday.ust.hk
+DNS Name=www.infoday.ust.hk
+"
+https://libguides.ust.hk/bloomberg,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?8?月?6?日 20:06:54 ?2019?年?11?月?4?日 20:06:54,sha256RSA,"CN = Let's Encrypt Authority X3
+O = Let's Encrypt
+C = US",CN = libguides.ust.hk, RSA 加密,DNS Name=libguides.ust.hk
+http://www.mfin.ust.hk/,,,,,,,
+https://www.shss.ust.hk/,"The connection to this site uses TLS 1.2 (a strong protocol), ECDHE_RSA with P-384 (a strong key exchange), and AES_256_CBC with HMAC-SHA1 (an obsolete cipher).",?2018?年?11?月?29?日 8:00:00 ?2019?年?11?月?11?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = www.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=www.shss.ust.hk
+DNS Name=shss.ust.hk
+"
+http://ri.ust.hk/,,,,,,,
+https://www.ust.hk/lifehkust,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?5?月?17?日 8:00:00 ?2020?年?5?月?17?日 7:59:59,sha256RSA,"CN = www.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated","CN = www.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=www.ust.hk
+DNS Name=ust.hk
+"
+http://sciencefocus.ust.hk/,,,,,,,
+http://caser.ust.hk/en/,,,,,,,
+https://dst.ust.hk/eng/index.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,CN = COMODO RSA Domain Validation Secure Server CA,"CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+http://sports.ust.hk/cgi-bin/index.php#&panel1-1,,,,,,,
+https://iwd.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+http://hdji.ust.hk/,,,,,,,
+https://risingstarsasia2018.ust.hk/index.php,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+https://oces.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).
+",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated
+", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+http://sing.cse.ust.hk/,,,,,,,
+https://envr.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+http://www.bm.ust.hk/,,,,,,,
+https://connect.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?8?月?7?日 8:00:00 ?2021?年?8?月?7?日 7:59:59,sha256RSA,"CN = Sectigo RSA Domain Validation Secure Server CA
+O = Sectigo Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = connect.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=connect.ust.hk
+DNS Name=www.connect.ust.hk
+"
+https://rae2020.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2017?年?11?月?22?日 8:00:00 ?2020?年?11?月?22?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = rae2020.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=rae2020.ust.hk
+DNS Name=www.rae2020.ust.hk
+"
+https://www.ece.ust.hk/eezxli,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?4?月?1?日 8:00:00 ?2021?年?4?月?1?日 7:59:59,sha256RSA,"CN = Sectigo RSA Domain Validation Secure Server CA
+O = Sectigo Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = www.ece.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=www.ece.ust.hk
+DNS Name=ece.ust.hk
+"
+http://www.math.ust.hk/,,,,,,,
+https://www.cse.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?23?日 8:00:00 ?2021?年?5?月?23?日 7:59:59,sha256RSA,"CN = Sectigo RSA Organization Validation Secure Server CA
+O = Sectigo Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.cse.ust.hk
+OU = PremiumSSL Wildcard
+OU = Department of Computer Science and Engineering
+O = Hong Kong University of Science and Technology, The
+STREET = 1 University Road, Clear Water Bay
+L = Kowloon
+C = HK", RSA 加密,"DNS Name=*.cse.ust.hk
+DNS Name=cse.ust.hk
+"
+https://iso.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+http://cei.ust.hk/,,,,,,,
+http://ami.ust.hk/eng/index.php,,,,,,,
+http://ragroup.ust.hk/,,,,,,,
+https://www.ust.hk/visit,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?5?月?17?日 8:00:00 ?2020?年?5?月?17?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = www.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=www.ust.hk
+DNS Name=ust.hk
+"
+https://souvenir.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?5?月?24?日 8:00:00 ?2020?年?7?月?23?日 7:59:59,sha256RSA,"CN = Sectigo RSA Extended Validation Secure Server CA
+O = Sectigo Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = souvenir.ust.hk
+OU = COMODO EV SSL
+OU = Public Affairs Office
+O = The Hong Kong University of Science and Technology
+STREET = 1 University Rd, Clear Water Bay
+L = Sai Kung
+S = Kowloon
+C = HK
+2.5.4.15 = Private Organization
+1.3.6.1.4.1.311.60.2.1.3 = HK
+SERIALNUMBER = SO9000042", RSA 加密,"DNS Name=souvenir.ust.hk
+DNS Name=www.souvenir.ust.hk
+"
+https://seng.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_256_GCM (a strong cipher).",?2019?年?9?月?6?日 8:00:00 ?2021?年?9?月?6?日 7:59:59,sha256RSA,"CN = Sectigo RSA Domain Validation Secure Server CA
+O = Sectigo Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = seng.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=seng.ust.hk
+DNS Name=www.seng.ust.hk
+"
+http://envf.ust.hk/,,,,,,,
+https://shrl.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+https://ppol.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+http://wbb.ust.hk/index.html,,,,,,,
+http://gbus.ust.hk/en/home/,,,,,,,
+https://cso.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+https://shrl.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+http://envf.ust.hk/,,,,,,,
+https://ienv.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+http://msss.ust.hk/,,,,,,,
+www.evmt.ust.hk,,,,,,,
+https://www.ipo.ust.hk/en/home/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2019?年?9?月?20?日 8:00:00 ?2021?年?11?月?19?日 7:59:59,sha256RSA,"CN = Sectigo RSA Domain Validation Secure Server CA
+O = Sectigo Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = www.ipo.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=www.ipo.ust.hk
+DNS Name=ipo.ust.hk
+"
+https://rpghandbook.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+http://onemilliondollar.ust.hk/,,,,,,,
+http://sen.ust.hk/,,,,,,,
+http://schina.ust.hk/zh,,,,,,,
+http://physics.ust.hk/eng/,,,,,,,
+https://strategicplan.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+https://tpghandbook.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+https://bibu.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+https://caire.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+https://studyabroad.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?10?日 8:00:00 ?2020?年?9?月?10?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = studyabroad.ust.hk
+OU = PositiveSSL
+OU = Domain Control Validated", RSA 加密,"DNS Name=studyabroad.ust.hk
+DNS Name=www.studyabroad.ust.hk
+"
+http://biomaterials.ust.hk/,,,,,,,
+https://pao.ust.hk/index.php/en_us/home,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+https://maec.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+http://www.mcpf.ust.hk/,,,,,,,
+http://www.pskl.ust.hk/,,,,,,,
+http://www.pskl.ust.hk/,,,,,,,
+http://cfp.ust.hk/cgi-bin/cfp/eng/index.php,,,,,,,
+http://wfa.ust.hk/,,,,,,,
+https://iao.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
+http://qa.ust.hk/,,,,,,,
+http://staff.ust.hk/,,,,,,,
+https://worldrecord.ust.hk/,"The connection to this site is encrypted and authenticated using TLS 1.2 (a strong protocol), ECDHE_RSA with P-256 (a strong key exchange), and AES_128_GCM (a strong cipher).",?2018?年?9?月?18?日 8:00:00 ?2020?年?9?月?18?日 7:59:59,sha256RSA,"CN = COMODO RSA Domain Validation Secure Server CA
+O = COMODO CA Limited
+L = Salford
+S = Greater Manchester
+C = GB","CN = *.ust.hk
+OU = PositiveSSL Wildcard
+OU = Domain Control Validated", RSA 加密,"DNS Name=*.ust.hk
+DNS Name=ust.hk
+"
